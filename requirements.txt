@@ -1,0 +1,6 @@
+networkx
+numpy
+scikit-learn
+argparse
+ipycytoscape
+torch
